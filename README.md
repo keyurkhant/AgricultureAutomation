@@ -17,7 +17,7 @@ Indian Agriculture occupies around 50% of Indian population. In this scenario, m
 RMSE - 4.4822
 Accuracy - 90.00%
 
-2. Random Forest Regressor
+2.Random Forest Regressor
 RMSE - 4.1705
 Accuracy - 91.86%
 
