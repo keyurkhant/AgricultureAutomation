@@ -9,7 +9,7 @@ Indian Agriculture occupies around 50% of Indian population. In this scenario, m
 1. Flask (Python based Web FrameWork)
 2. Machine Learning Regression Technique.
 3. Firebase
-4. Raspbery Pi with IoT Sensors 
+4. Raspberry Pi with IoT Sensors 
 
 ## Result
  
